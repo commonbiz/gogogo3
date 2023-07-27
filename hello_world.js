@@ -34,3 +34,12 @@ console.log(!!true);
 console.log('---------------');
 console.log(!!{});
 console.log(!![]);
+/**
+ * 1. 아무글자도 없는 String
+ * 2. 값이 없는 경우
+ * 3. 0
+ * 모두 false 로 반환한다. 
+ * 
+ * git hub 테스트 입니다. 
+ */
+
